@@ -1,0 +1,10 @@
+ul#nav {
+    margin-left: -180px;
+    float: left;
+    list-style: none;
+    padding: 10px;
+}
+
+ul#nav li {
+    cursor: pointer;
+}
